@@ -1,0 +1,12 @@
+---
+:id: 152687352
+:submitters:
+- :name: Timur Kasimov
+  :email: kasimovt@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-06 04:28:08.006512000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-05 20:28:08.006512000 Z
+:status: processed
+:score: 20.5 / 21.0
